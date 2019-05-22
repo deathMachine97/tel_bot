@@ -1,6 +1,6 @@
 import telebot
 import time
-bot_token = "608923894:AAHrJVuqGhK6Bn73U_ABfihskn1XKvj0F1o"
+bot_token = ""
 bot = telebot.TeleBot(token=bot_token)
 def find_at(msg):
     for text in msg:
