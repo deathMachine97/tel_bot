@@ -28,7 +28,7 @@ class BotHandler:
         return resp
 
 
-token = "608923894:AAHrJVuqGhK6Bn73U_ABfihskn1XKvj0F1o"
+token = ""
 greet_bot = BotHandler(token)
 greetings = ("привет", "салам", "қал қалай")
 now = datetime.datetime.now()
